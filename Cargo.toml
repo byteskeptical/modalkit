@@ -27,7 +27,7 @@ crossterm = "0.27"
 libc = "0.2.150"
 tui = { version = "0.23", optional = true, package = "ratatui" }
 intervaltree = { version = "0.2.6", optional = true }
-bitflags = "2.3"
+bitflags = "1.3.2"
 nom = "7.1.3"
 radix_trie = "0.2.1"
 regex = "^1.10.2"
